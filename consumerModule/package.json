@@ -2,5 +2,9 @@
   "name": "consumerModule",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "additionModule": "1.0.0",
+    "substractionModule": "1.0.0"
+  }
 }
